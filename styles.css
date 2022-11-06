@@ -1,0 +1,32 @@
+header{
+    color:rgb(2, 0, 4);
+    font-size:xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-underline-offset: 3px;
+    margin: 30px;
+    text-align: center;
+}
+h1{
+    font-size:large ;
+}
+h2,h3{
+    font-size:large;
+}
+img{
+    height: 320px;
+    width: auto;
+}
+div{
+    background-color: lavenderblush;
+    padding: 30px;
+    text-align: center;
+}
+
+.farm{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 10px;
+    width: 30%;
+    float:right;
+
+}
